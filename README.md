@@ -1,2 +1,2 @@
 # Type.js
-All of type.js files in this repo 
+All of type.ts files in this repo 
